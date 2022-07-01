@@ -1,0 +1,91 @@
+.nameHeader{
+    min-width: 150px !important;
+  }
+
+  .open{
+    border: 1px solid rgb(222, 222, 222);
+    background-color: #fff;
+    height: 15px;
+    text-align: center;
+    line-height : 0px;
+    margin-top: 20px;
+  }
+
+  .switch{
+    margin-bottom: -15px;
+  }
+
+  .players{
+    line-height: 20px;
+    width: 20px;
+    color: #fff;
+    border-radius: 2px;
+    border-style: none;
+    background-color: #239a98;
+  }
+
+  .nameClient{
+    max-width: 5px !important;
+  }
+
+  .icon{
+    color: #239a98;
+  }
+
+  .detailRow{
+    margin-bottom: -35px !important;
+  }
+  
+  .extra{
+    padding: 0px 10px !important;
+  }
+
+  .details{
+    visibility: hidden;
+    height: 10px;
+    margin: 0px -10px;
+    padding: 20px 0px 10px 20px;
+    background-color: rgb(246, 246, 246);
+  }
+  
+  .deleteBttn{
+    width: 80px;
+    line-height: 30px;
+    border: none;
+    background-color: red;
+    color: #fff;
+  }
+  
+  .editBttn{
+    width: 80px;
+    line-height: 30px;
+    border: none;
+    background-color: #239a98;
+    color: #fff;
+  }
+
+  thead{
+    background-color: rgb(248, 248, 248);
+    border-style: none !important;
+  }
+  
+  thead th{
+    font-weight: normal !important;
+    height: 80px;
+  }
+  
+  thead tr{
+    vertical-align: middle;
+    border-bottom-style: hidden !important;
+  }
+  
+  tbody tr:hover{
+    background-color: rgba(133, 255, 202, 0.50);
+  }
+  
+  tbody td{
+    color: rgb(83, 83, 83);
+    line-height: 50px;
+    border-bottom: 1px solid;
+    border-color: rgb(222, 222, 222);
+  }

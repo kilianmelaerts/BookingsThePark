@@ -1,0 +1,62 @@
+.nameClient{
+  max-width: 5px !important;
+}
+
+select{
+  min-width: 150px;
+  outline-width: 1px;
+}
+
+select:hover{
+  outline-color: rgb(51, 176, 170);
+}
+
+.addButton{
+  padding: 5px 10px 5px 10px;
+  border-style: none;
+  border-radius: 2px;
+  background-color: #239a98;
+  color: #fff;
+}
+
+.filterBttn{
+  border: 1px solid;
+  border-color: rgb(222, 222, 222);
+  background-color: #fff;
+  color: gray;
+  padding: 2px 18px;
+}
+
+.filterBttn:hover{
+  color: #239a98;
+}
+
+.filterBttn:active{
+  border-color: #239a98;
+  color: #239a98;
+}
+
+.filterInput{
+  height: 30px;
+  width: auto;
+  border: 1px solid;
+  border-color: rgb(222, 222, 222);
+}
+
+.filterInput:hover{
+  border-color: #239a98;
+}
+
+.searchBttn{
+  border: 1px solid;
+  border-color: rgb(222, 222, 222);
+  background-color: #fff;
+  color: gray;
+  padding: 2px 18px;
+}
+
+.searchBttn:hover{
+  color: #239a98;
+}
+
+
